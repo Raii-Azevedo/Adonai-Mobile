@@ -7,8 +7,8 @@
 ## Tecnologia
  
 Aqui estão as tecnologias utilizadas nesse projeto:
- App Inventor 2
- MySQL
+ - App Inventor 2
+ - MySQL
  
  
 ## Services Used
